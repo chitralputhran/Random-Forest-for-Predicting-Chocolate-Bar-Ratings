@@ -14,8 +14,8 @@ For this project, the libraries used are:
 >* [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 If you do not have these libraries installed, you can easily install these using pip, a package-management system used to install and manage software packages written in Python.<br>
-1. First, you have to install Python, follow the instructions [here](https://www.python.org/downloads/).<br> 
-2. Then for installing the required libraries (if not installed already), use the script below (one by one):
+>1. First, you have to install Python, follow the instructions [here](https://www.python.org/downloads/).<br> 
+>1. Then for installing the required libraries (if not installed already), use the script below (one by one):
 
 ```bash
 pip install numpy
@@ -28,9 +28,9 @@ pip install seaborn
 There many ways to install these libraries, the most popular choice being through Anaconda Distribution, instructions [here](https://docs.anaconda.com/anaconda/install/). <br>
 
 To check if the libraries are correctly installed, I use this simple trick:
-1. Open your command prompt or terminal.
-2. Type python to call the python shell.
-3. Then type ```import numpy``` to test if NumPy was installed correctly if not errors are received congratulations the library is successfully installed. <br> 
+>1. Open your command prompt or terminal.
+>1. Type python to call the python shell.
+>1. Then type ```import numpy``` to test if NumPy was installed correctly if not errors are received congratulations the library is successfully installed. <br> 
 
 You can use this technique to verify for all the libraries above, if in doubt. 
 

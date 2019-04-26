@@ -1,8 +1,9 @@
 # Random Forest for Predicting Chocolate Bar Ratings
 
-The data used for this project can found [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings/data)
+![plot](Jointplot.JPG) <br>
 
-**Thank you for going through my GitHub repository!**<br>
+The data used for this project can found [here](https://www.kaggle.com/rtatman/chocolate-bar-ratings/data) <br>
+**Thank you for going through my GitHub repository!**<br><br>
 In this project, I have used python libraries within the data science ecosystem to process and predict chocolate bar ratings, based on supporting features included in the data set, with the help of machine learning.  
 
 ## Libraries Used:
